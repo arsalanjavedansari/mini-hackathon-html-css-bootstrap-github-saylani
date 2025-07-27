@@ -1,0 +1,127 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+form .btn-navbar{
+    border: none;
+    color: green;
+}
+
+form .btn-navbar-00{
+    color: white;
+    background-color: green;
+}
+
+.carousel-content .caro-head-00{
+    color: rgb(83, 81, 81);
+    font-size: 55px;
+    margin-top: 60px;
+}
+
+.carousel-content .caro-head-01{
+    color:rgb(61, 156, 61) ;
+    font-size: 80px;
+}
+
+.carousel-content p{
+    color: gray;
+}
+
+.carousel-content button{
+    color: white;
+    background-color: rgb(61, 156, 61);
+    padding: 8px 27px;
+    border: 1px solid rgb(61, 156, 61);
+    border-radius: 5px;
+}
+
+
+.card-section-00 h2{
+    color: rgb(82, 78, 78);
+    font-size: 40px;
+}
+
+.card-section-00 p{
+    color: rgb(153, 149, 149);
+}
+
+
+
+
+.card-images{
+    height: 30px;
+    width: 30px;
+    display: flex;
+    gap: 130px;
+    margin-left: -350px;
+    cursor: pointer;
+    
+}
+
+.main-card-cont{
+    text-align: center ;
+}
+
+
+.sub-caro-00 .sub-caro-btn{
+    color: white;
+    background-color: rgb(61, 156, 61);
+    padding: 8px 18px;
+    border: 1px solid rgb(61, 156, 61);
+    border-radius: 5px;
+}
+
+
+.sub-caro-00 h2{
+    font-size: 40px;
+}
+
+.sub-caro-00 p{
+    padding-right:95px;
+}
+.sub-caro-03 span h3{
+    color: rgb(61, 156, 61); ;
+}
+
+.sub-caro-04{
+    cursor: pointer;
+}
+
+
+
+
+.sub-caro-03-content button{
+    color: white;
+    background-color: rgb(61, 156, 61);
+    padding: 8px 18px;
+    border: 1px solid rgb(61, 156, 61);
+    border-radius: 5px;
+}
+
+
+.sub-caro-03-content p{
+    padding-right: 95px;
+}
+
+.sub-caro-05-content h6{
+    color: green;
+}
+
+.sub-caro-05-content{
+    padding-right: 100px;
+}
+
+.sub-caro-05-content p{
+    color: gray;
+}
+
+
+.sub-caro-05-content .sub-content{
+    color: gray;
+}
+
+.sub-caro-05-content img{
+    cursor: pointer;
+}
