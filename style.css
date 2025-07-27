@@ -125,3 +125,11 @@ form .btn-navbar-00{
 .sub-caro-05-content img{
     cursor: pointer;
 }
+
+.sub-footer-content h1{
+    text-align: center;
+}
+.sub-footer-content p{
+    text-align: center;
+    padding: 2px 260px;
+}
